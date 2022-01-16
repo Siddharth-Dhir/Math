@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    background-image: url("Bg.jfif");
+
+
+}
+button{
+    color: aqua;
+    background:blue
+}
